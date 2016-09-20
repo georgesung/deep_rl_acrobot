@@ -21,5 +21,8 @@ Once you know your optimal parameters, enter them in 'full_training.py', and run
 
 To validate your model (make sure results are consistent), run 'python model_eval.py'.
 
-# Detailed report
+## Detailed report
 A full detailed report can be found at 'Report.pdf'
+
+## Final model
+My final trained model is available at 'models/model.ckpt'. This model is saved as a TensorFlow model.
