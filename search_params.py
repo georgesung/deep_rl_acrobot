@@ -84,9 +84,6 @@ for _ in range(NUM_ITERS):
 			if avg_rewards is not None:
 				break
 
-		# Calculate the score, i.e. average reward of final 100 episodes
-		score = np.mean(avg_rewards[-100:])
-
 		# Save the max score for this parameter combination
 		if params in results:
 			if score > results[params]:
