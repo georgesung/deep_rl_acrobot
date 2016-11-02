@@ -1,5 +1,5 @@
 # Using Deep Reinforcement Learning to Solve Acrobot
-This project uses policy gradients with actor/critic networks (see "Deep Deterministic Policy Gradients", https://arxiv.org/abs/1509.02971) and parallel environments (see "Asynchronous Methods for Deep Reinforcement Learning", https://arxiv.org/abs/1602.01783) to solve OpenAI Gym's Acrobot-v1 environment. As of September 20, 2016, the final learned model placed 3rd on the OpenAI Gym Acrobot-v1 leaderboard, with a score of -80.69 ± 1.06: https://gym.openai.com/envs/Acrobot-v1
+This project uses policy gradients with actor/critic networks (see "Deep Deterministic Policy Gradients", https://arxiv.org/abs/1509.02971) and parallel environments (see "Asynchronous Methods for Deep Reinforcement Learning", https://arxiv.org/abs/1602.01783) to solve OpenAI Gym's Acrobot-v1 environment. As of September 20, 2016, the final learned model placed 3rd on the OpenAI Gym Acrobot-v1 leaderboard, with a score of -80.69 ± 1.06 (see "georgesung's algorithm"): https://gym.openai.com/envs/Acrobot-v1
 
 This project is my capstone project for Udacity's Machine Learning Engineer Nanodegree. For the full capstone project report, please see 'Report.pdf'.
 
